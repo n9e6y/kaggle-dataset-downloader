@@ -5,7 +5,7 @@ Kaggle Dataset Downloader is a simple Python tool that simplifies the process of
 ## Project Structure
 
 ```
-KAGGLE-DATASET-DOWNLOADER/
+kaggle-dataset-downloader/
 ├── kaggle_downloader/
 │   ├── __init__.py
 │   ├── downloader.py
@@ -45,7 +45,7 @@ Before using Kaggle Dataset Downloader, ensure you have:
 
 ## Usage
 
-To use the Kaggle Dataset Downloader, run the `downloader.py` script with Python:
+To use the Kaggle Dataset Downloader, run this script with Python:
 
 ```
 python -m kaggle_downloader/downloader owner/dataset-name [options]
